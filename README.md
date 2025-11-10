@@ -35,19 +35,19 @@ The Cafeteria Billing System is a beginner-friendly C++ project designed to simu
 ---
 ## Output Example
 
-Enter your name: Anandi
-Enter your surname: Kiva
+- Enter your name: Anandi
+- Enter your surname: Kiva
 Menu:
 1. Coffee - R15
 2. Sandwich - R30
 ...
-Enter the number of items you want to order (up to 8): 3
-Enter item number 1: 1
-Enter item number 2: 5
-Enter item number 3: 8
-
-Customer: Anandi Kiva
-Total Bill: R75.00
-Discount: R0.00
-Final Bill: R75.00
-Bill saved to CafeteriaBill.txt
+- Enter the number of items you want to order (up to 8): 3
+- Enter item number 1: 1
+- Enter item number 2: 5
+- Enter item number 3: 8
+---
+- Customer: Anandi Kiva
+- Total Bill: R75.00
+- Discount: R0.00
+- Final Bill: R75.00
+- Bill saved to CafeteriaBill.txt
