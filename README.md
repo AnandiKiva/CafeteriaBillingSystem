@@ -22,9 +22,7 @@ The Cafeteria Billing System is a beginner-friendly C++ project designed to simu
 ---
 
 ## 🧰 Technologies
-- **Language:** C++  
-- **IDE:** Visual Studio 2022 (or any C++ compiler like GCC, Clang)  
-
+- **Language:** C++ 
 ---
 
 ## 🧪 How to Run
